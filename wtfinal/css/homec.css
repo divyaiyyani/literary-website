@@ -1,0 +1,10 @@
+#story{ 
+ background-image: url('C:\Users\EXAM\Downloads\story.png');
+height: 800px;
+width: 640 px;
+}
+#story:hover{ 
+ background-image: url('C:\Users\EXAM\Downloads\storyy.png');
+height: 800px;
+width: 640 px;
+}
